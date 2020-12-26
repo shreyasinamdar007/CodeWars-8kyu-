@@ -1,4 +1,2 @@
-let s = [2, 3, 4, 5, 6];
-let m = Math.max(s);
-s.pop(m)
-console.log(s)
+let str = [1, 3, 5, "sar"];
+console.log(typeof str[2]);
